@@ -121,5 +121,5 @@ Custom_vector|46 kartus|
 ### Custom vektoriaus veikimas ankstesnėje užduotyje
 
 Deja, mano sukurtas vektorius turi neatitikimų, tad vykdant programą susiduriama su klaida. Tad rekomenduojama naudoti jau patvirtintą std::vector vektorių.
-
+Programą su mano sukurtu vektoriumi galima rasti vektoriai4 aplankale.
 
