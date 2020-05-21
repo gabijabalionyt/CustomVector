@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1590082323 source:c:\users\admin\downloads\vektoriai4\funkcijos.cpp
+	"biblioteka.h"
+
+1590079403 c:\users\admin\downloads\vektoriai4\biblioteka.h
+	<iostream>
+	<chrono>
+	<string>
+	<algorithm>
+	<iomanip>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<iterator>
+	"vector.h"
+
+1590082323 source:c:\users\admin\downloads\vektoriai4\main.cpp
+	"biblioteka.h"
+
+1590081616 c:\users\admin\downloads\vektoriai4\vector.h
+	<iostream>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<cstring>
+
